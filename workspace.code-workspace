@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Downloads\\The-Earth-Saver-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "task web"
+	}
+}
